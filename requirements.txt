@@ -1,0 +1,6 @@
+streamlit
+streamlit-option-menu
+pymongo
+hugchat
+python-dotenv
+transformers[torch]
